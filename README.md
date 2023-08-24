@@ -1,6 +1,8 @@
 # Healthcare Hospital System
 The main goal of the Healthcare Hospital System project is to view the hospital statistics by Directors and management or by those who are authorized to see it.
 
+This project I had done with the help of JSP and Servlets.
+
 Here are some of the sample images of the project : 
 
 ![Screenshot (975)](https://github.com/pratik1507/Healthcare_Hospital_System/assets/110710381/ce97a15a-6c08-4c3f-b154-83ef2f30fdbf)
